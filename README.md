@@ -1,5 +1,5 @@
-- # 👋 Hello! Welcome to my Github profile.
-## My name is Guilherme Segatto!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&pause=1200&color=0069FF&center=true&width=1000&height=150&lines=Welcome+%3A);My+name+is+Guilherme+Segatto;I'm+a+Developer+Front-end+and+Backend;I+am+19+years+old;I+am+from+Brazil+" alt="Typing SVG" /></a>
+
 
  🔭 Atualmente estou cursando o 3º semestre de Análise e Desenvolvimento de Sistemas no Instituto de Ensino Superior de Brasília.
 
