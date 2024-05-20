@@ -23,12 +23,6 @@
 Estou em busca de uma posição desafiadora na área de Desenvolvimento de Software e aberto a novas experiências e desafios que me ajudem a crescer e aprimorar minhas habilidades técnicas. Apesar de estar no início da minha carreira, estou determinado a demonstrar minha dedicação e empenho para contribuir com o sucesso da empresa. Tenho grandes planos e uma enorme vontade de evoluir. Por isso, estou sempre em movimento, buscando oportunidades de aprendizado e aprimoramento.
 
 
-- <div>
-<a href="https://github.com/GuilhermeSegattoo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSegattoo&layout=compact&langs_count=7&theme=dracula"/>
-
-</div>
-
 # Contatos:
 
 <div>
