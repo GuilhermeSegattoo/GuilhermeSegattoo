@@ -5,7 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Segatto-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermesegatto/)](https://www.linkedin.com/in/guilhermesegatto/) 
 [![Gmail Badge](https://img.shields.io/badge/-segattooguilherme@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:segattooguilherme@gmail.com)](mailto:segattooguilherme@gmail.com)
 
-Eu sou o Guilherme Segatto, sou desenvolvedor Full-Satck. No 4º semestre do curso de Análise e Desenvolvimento de Sistemas.
 
 Profissional com amplo conhecimento em diversas
 tecnologias e frameworks, tenho desenvolvido projetos variados, desde landing-pages
