@@ -11,7 +11,7 @@ tecnologias e frameworks, tenho desenvolvido projetos variados, desde landing-pa
 até sistemas CRUD completos, incluindo interfaces de administração e integração com
 bancos de dados. 
 
- Javascript - Typescript - React - React Native - Next - TailwindCSS - Css - HTML - mySQL - Firebase - Supabase - mongoDB - mongoose - express - swagger - API REST-FULL.
+ Java - Javascript - Typescript - React - React Native - Next - TailwindCSS - Css - HTML - mySQL - Firebase - Supabase - mongoDB - mongoose - express - swagger - API REST-FULL.
 
 **Precisando de projeto novo para sua empresa? Fico aberto a novas experiências e desafios.**
 
