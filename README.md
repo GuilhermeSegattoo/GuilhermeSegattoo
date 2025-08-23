@@ -8,8 +8,7 @@
 
 Profissional com amplo conhecimento em diversas
 tecnologias e frameworks, tenho desenvolvido projetos variados, desde landing-pages
-até sistemas CRUD completos, incluindo interfaces de administração e integração com
-bancos de dados. 
+até sistemas completos.
 
  Java - Javascript - Typescript - React - React Native - Next - TailwindCSS - Css - HTML - mySQL - Firebase - Supabase - mongoDB - mongoose - express - swagger - API REST-FULL.
 
